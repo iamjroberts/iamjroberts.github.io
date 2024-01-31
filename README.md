@@ -1,12 +1,15 @@
-# John's Portfolio
+# My Digital Billboard
 
-#### Technical Skills: SolidWorks
+## About
+Hi John here! As a seasoned Mechanical Design Engineer at [RingIR](https://ring-ir.com/),  I specialize in the intricate design of optical layouts for mid-infrared spectrometers, demonstrating proficiency in Computer-Aided Design (CAD) tools. My role involves translating conceptual ideas into practical, cutting-edge solutions for complex optical systems. I lead the seamless integration of electrical, optical, and mechanical systems into cohesive and functional spectrometer devices.
+
+#### Technical Skills: SolidWorks, LEAN Manufacturing Managment, 
 
 ## Education			        		
 - B.S., Mechanical Engineering Technology | New Mexico State University (_May 2018_)
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**Mechanical Design Engineer @ Ring IR Inc. (_August 2018 - Present_)**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 - Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
