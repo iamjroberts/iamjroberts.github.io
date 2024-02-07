@@ -1,7 +1,9 @@
 # My Digital Billboard
 
 ## About
-Hi John here! As a seasoned Mechanical Design Engineer at [RingIR](https://ring-ir.com/),  I specialize in the intricate design of optical layouts for mid-infrared spectrometers, demonstrating proficiency in Computer-Aided Design (CAD) tools. My role involves translating conceptual ideas into practical, cutting-edge solutions for complex optical systems. I lead the seamless integration of electrical, optical, and mechanical systems into cohesive and functional spectrometer devices.
+As Lead Mechanical Design Engineer for 6 years at [RingIR](https://ring-ir.com/), I ensure cross functionality of electrical, optical, and mechanical systems into a cohesive and reliable mid-infrared spectrometer devices. I specialize in the design and alignment of complex optical layouts.
+
+With an unwavering love for CAD work and having an insatiable appetite for new challenges, I thrives when it comes to mechanical design. Whether it's tackling intricate components or conceptualizing innovative solutions, I approaches each task with enthusiasm and a can-do attitude. The thrill of problem-solving is like a fuel. What sets me apart is the ability to do the leg work and research neccisary to translate conceptual ideas into tangible designs. I am eager for collaboration, always open to feedback and ready to learn. Being a team player with an unquenchable thirst for challenges is the type of environemtn I create around me and thrive in. 
 
 #### Technical Skills: SolidWorks, LEAN Manufacturing Managment, 
 
