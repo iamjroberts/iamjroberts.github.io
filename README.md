@@ -5,10 +5,12 @@ As Lead Mechanical Design Engineer for 6 years at [RingIR](https://ring-ir.com/)
 
 With an unwavering love for CAD work and an insatiable appetite for new challenges, I can't get enough when it comes to mechanical design. Whether it's tackling intricate components or conceptualizing innovative solutions, I approach each task with enthusiasm and a can-do attitude. The thrill of problem-solving and continuous learning is like fuel to me. What sets me apart is the ability to do the leg work and research necessary to translate conceptual ideas into tangible designs. I am eager for collaboration, always open to feedback, and ready to learn from others. The type of environment I create around me and thrive in is as a team player with an unquenchable thirst for challenges.
 
-#### Technical Skills: SolidWorks Solid Modeling and Drafting, LEAN Manufacturing Managment, Leadership and Project Management, Prototyping, 3D printing, Welding
+#### Technical Skills: SolidWorks Solid Modeling and Drafting, LEAN Manufacturing Managment, Leadership and Project Management, Prototyping, 3D Printing, Welding
 
-## Education			        		
+## Education & Certificates			        		
 - B.S., Mechanical Engineering Technology | New Mexico State University (_May 2018_)
+- MEP Fundamentals of Lean Manufacturing/Lean Manufacturing Basics (_October 2022_)
+- NM MEP Lean Project Manager Training (_November 2022_)
 
 ## Work Experience
 **Mechanical Design Engineer @ Ring IR Inc. (_August 2018 - Present_)**
