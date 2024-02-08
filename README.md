@@ -9,14 +9,17 @@ Outside of my career I love spending time with my children and working on my hom
 
 #### Technical Skills: SolidWorks Solid Modeling and Drafting, Lean Manufacturing Managment, Leadership and Project Management, Prototyping, 3D Printing, Welding
 
-## Education & Certificates		
+## Education	
+- B.S., Mechanical Engineering Technology | New Mexico State University (_May 2018_)
+
+## Certificates & Achievements	
+- United States Patent | No. US 11,346,780 B1 (_May 31, 2022_) (_https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11346780_)
+- United States Patent | No. US 11,630,056 B1 (_April 18, 2023_) (_https://ppubs.uspto.gov/dirsearch-public/print/downloadPdf/11630056)
 - New Mexico Manufacturing Extension Partnership | Lean Project Manager Training (_November 2022_)
 - New Mexico Manufacturing Extension Partnership | Fundamentals of Lean Manufacturing/Lean Manufacturing Basics (_October 2022_)
-- B.S., Mechanical Engineering Technology | New Mexico State University (_May 2018_)
 - SolidWorks Associate Certificate | Mechanical Design: C-YFFA8LG2CF (_April 2014_)
 - American Welding Society (AWS) | 6G Pipe GTAW- Mild, Stainless, and Chromoly Steel (_October 2014_)
 - American Welding Society (AWS) | 3G & 4G GTAW- Aluminum (_December 2014_)
-- 
 
 
 ## Work Experience
