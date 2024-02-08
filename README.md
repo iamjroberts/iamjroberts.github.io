@@ -5,14 +5,19 @@ As Lead Mechanical Design Engineer for 6 years at [RingIR](https://ring-ir.com/)
 
 With an unwavering love for CAD work and an insatiable appetite for new challenges, I can't get enough when it comes to mechanical design. Whether it's intricate components or conceptualizing innovative solutions, I approach each task with enthusiasm and a can-do attitude. The thrill of problem-solving and continuous learning is like fuel to me. I have the drive to do the leg work and research necessary to translate conceptual ideas into tangible designs. I am eager for collaboration, always open to feedback, and ready to teach or learn from others. 
 
-Outside of my career I love spending time with my children and working on my home. As a jack of all trades I enjoy operating heavy equiptment, welding, wood working and renovation projects. Getting out to explore the known and unknow locations in the beautiful state of New Mexico has been my newest project. 
+Outside of my career I love spending time with my children and working on my home. As a jack of all trades I enjoy operating heavy equiptment, welding, wood working and renovation projects. Getting out to explore the known and unknown locations in the beautiful state of New Mexico has been my newest project. 
 
 #### Technical Skills: SolidWorks Solid Modeling and Drafting, Lean Manufacturing Managment, Leadership and Project Management, Prototyping, 3D Printing, Welding
 
-## Education & Certificates			        		
+## Education & Certificates		
+- New Mexico Manufacturing Extension Partnership | Lean Project Manager Training (_November 2022_)
+- New Mexico Manufacturing Extension Partnership | Fundamentals of Lean Manufacturing/Lean Manufacturing Basics (_October 2022_)
 - B.S., Mechanical Engineering Technology | New Mexico State University (_May 2018_)
-- MEP Fundamentals of Lean Manufacturing/Lean Manufacturing Basics (_October 2022_)
-- NM MEP Lean Project Manager Training (_November 2022_)
+- SolidWorks Associate Certificate | Mechanical Design: C-YFFA8LG2CF (_April 2014_)
+- American Welding Society (AWS) | 6G Pipe GTAW- Mild, Stainless, and Chromoly Steel (_October 2014_)
+- American Welding Society (AWS) | 3G & 4G GTAW- Aluminum (_December 2014_)
+- 
+
 
 ## Work Experience
 **Mechanical Design Engineer @ Ring IR Inc. (_August 2018 - Present_)**
