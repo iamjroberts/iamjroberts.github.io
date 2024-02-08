@@ -18,8 +18,8 @@ Outside of my career I love spending time with my children and working on my hom
 - New Mexico Manufacturing Extension Partnership | Lean Project Manager Training (_November 2022_)
 - New Mexico Manufacturing Extension Partnership | Fundamentals of Lean Manufacturing/Lean Manufacturing Basics (_October 2022_)
 - SolidWorks Associate Certificate | Mechanical Design: C-YFFA8LG2CF (_April 2014_)
-- American Welding Society (AWS) | 6G Pipe GTAW- Mild, Stainless, and Chromoly Steel (_October 2014_)
-- American Welding Society (AWS) | 3G & 4G GTAW- Aluminum (_December 2014_)
+- American Welding Society | 6G Pipe GTAW- Mild, Stainless, and Chromoly Steel (_October 2014_)
+- American Welding Society | 3G & 4G GTAW- Aluminum (_December 2014_)
 
 
 ## Work Experience
