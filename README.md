@@ -12,7 +12,15 @@ Outside of my career I love spending time with my children and working on my hom
 ## Education	
 - B.S. Mechanical Engineering Technology- Major Concentration Renewable Energy Technology | New Mexico State University (_May 2018_)
 
-###### Certificates & Achievements
+## Certificates & Achievements
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+## Education
 |:----------------------------------------------|:---------------------------------------------------------------------------------------------------|
 |United States Patent                           | Vacuum Airflow Filtering For Biological Sensing (_No. US 11,630,056 B1 April 18, 2023_)            |
 |United States Patent                           | Resonant, Multi-pass Cavity For Cavity Ring-down Spectroscopy (_No. US 11,346,780 B1 May 31, 2022_)|
