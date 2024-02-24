@@ -11,9 +11,8 @@ Outside of my career I love spending time with my children and working on my hom
 
 ## Education	
 
-</th>
-- B.S. Mechanical Engineering Technology- Major Concentration Renewable Energy Technology | New Mexico State University (_May 2018_)
-</th>
+
+<th>B.S. Mechanical Engineering Technology- Major Concentration Renewable Energy Technology | New Mexico State University (_May 2018_)</th>
 
 ## Certificates & Achievements
 
