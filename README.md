@@ -11,11 +11,8 @@ Outside of my career I love spending time with my children and working on my hom
 
 ## Education	
 
-```
-B.S. Mechanical Engineering Technology- Major Concentration Renewable Energy Technology <br> New Mexico State University (_May 2018_)
-```
 ```js
-// Javascript code with syntax highlighting.
+// B.S. Mechanical Engineering Technology- Major Concentration Renewable Energy Technology <br> New Mexico State University (_May 2018_)
 ```
 
 ## Certificates & Achievements
@@ -37,20 +34,20 @@ B.S. Mechanical Engineering Technology- Major Concentration Renewable Energy Tec
 ### AG-3000 (_2023_)
 
 
-### AG-4500S (_2023)
+### AG-4500S (_2023_)
 
 
-### AG-4500 (_2022)
+### AG-4500 (_2022_)
 
 
-### AG-30 (_2022)
+### AG-30 (_2022_)
 
 
-### AG-2000 (_2021)
+### AG-2000 (_2021_)
 
 
-### AG-15 (_2021)
+### AG-15 (_2021_)
 
 
-### AG-4000 (_2020)
+### AG-4000 (_2020_)
 
