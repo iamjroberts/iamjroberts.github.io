@@ -10,7 +10,10 @@ Outside of my career I love spending time with my children and working on my hom
 #### Technical Skills: SolidWorks Solid Modeling and Drafting, Lean Manufacturing Managment, Leadership and Project Management, Prototyping, 3D Printing, Welding
 
 ## Education	
+
+</th>
 - B.S. Mechanical Engineering Technology- Major Concentration Renewable Energy Technology | New Mexico State University (_May 2018_)
+</th>
 
 ## Certificates & Achievements
 
