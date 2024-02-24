@@ -13,14 +13,15 @@ Outside of my career I love spending time with my children and working on my hom
 - B.S. Mechanical Engineering Technology- Major Concentration Renewable Energy Technology | New Mexico State University (_May 2018_)
 
 ## Certificates & Achievements
-|:----------------------------------------------|:---------------------------------------------------------------------------------------------------|
-|United States Patent                           | Vacuum Airflow Filtering For Biological Sensing (_No. US 11,630,056 B1 April 18, 2023_)            |
-|United States Patent                           | Resonant, Multi-pass Cavity For Cavity Ring-down Spectroscopy (_No. US 11,346,780 B1 May 31, 2022_)|
-|New Mexico Manufacturing Extension Partnership | Lean Project Manager Training (_November 2022_)                                                    |
-|New Mexico Manufacturing Extension Partnership | Fundamentals of Lean Manufacturing/Lean Manufacturing Basics (_October 2022_)                      |
-|American Welding Society                       | 6G Pipe GTAW- Mild, Stainless, and Chromoly Steel (_March 2016_)                                   |
-|American Welding Society                       | 3G + 4G GTAW- Aluminum (_March 2016_)                                                              |
-|SolidWorks Associate Certificate               | Mechanical Design: C-YFFA8LG2CF (_April 2014_)                                                     |
+
+|:----------------------------------------------|:----------------------------------------------------------------------------------------------------|
+|United States Patent                           | Vacuum Airflow Filtering For Biological Sensing (_No. US 11,630,056 B1 April 18, 2023_)             |
+|United States Patent                           | Resonant, Multi-pass Cavity For Cavity Ring-down Spectroscopy (_No. US 11,346,780 B1 May 31, 2022_) |
+|New Mexico Manufacturing Extension Partnership | Lean Project Manager Training (_November 2022_)                                                     |
+|New Mexico Manufacturing Extension Partnership | Fundamentals of Lean Manufacturing/Lean Manufacturing Basics (_October 2022_)                       |
+|American Welding Society                       | 6G Pipe GTAW- Mild, Stainless, and Chromoly Steel (_March 2016_)                                    |
+|American Welding Society                       | 3G + 4G GTAW- Aluminum (_March 2016_)                                                               |
+|SolidWorks Associate Certificate               | Mechanical Design: C-YFFA8LG2CF (_April 2014_)                                                      |
 
 
 ## Work Experience
