@@ -7,11 +7,9 @@ With an unwavering love for CAD work and an insatiable appetite for new challeng
 
 Outside of my career I love spending time with my children and working on my home. As a jack of all trades I enjoy operating heavy equiptment, welding, wood working and renovation projects. Getting out to explore the known and unknown locations in the beautiful state of New Mexico has been my newest project. 
 
-#### Technical Skills: SolidWorks Solid Modeling and Drafting, Lean Manufacturing Managment, Leadership and Project Management, Prototyping, 3D Printing, Welding
-
 ## Education	
 
-|B.S. Mechanical Engineering Technology- Major Concentration Renewable Energy Technology <br> New Mexico State University (_May 2018_)|
+**B.S. Mechanical Engineering Technology- Major Concentration Renewable Energy Technology <br> New Mexico State University (_May 2018_)**
 
 ## Certificates & Achievements
 
@@ -25,6 +23,7 @@ Outside of my career I love spending time with my children and working on my hom
 ## Work Experience
 **Mechanical Design Engineer @ Ring IR Inc. (_August 2018 - Present_)**
 
+#### Technical Skills: SolidWorks Solid Modeling and Drafting, Lean Manufacturing Managment, Leadership and Project Management, Prototyping, 3D Printing, Welding
 
 **Prototyping Lab Technician @ Arrowhead Center**
 
