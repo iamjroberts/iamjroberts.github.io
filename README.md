@@ -47,10 +47,10 @@ Outside of my career I love spending time with my children and working on my hom
 ![AG-30](/assets/ag15alpha1-silo-1.png)
 
 ### AG-2000 (_2021_)
-
+![AG-2000](/assets/AG2000-Black-silo-1.png)
 
 ### AG-15 (_2021_)
-
+![AG-15](/assets/AG-15-Blue-silo-1.png)
 
 ### AG-4000 (_2020_)
-
+![AG-4000](/assets/ag-4000-alpha-silo-1.png)
