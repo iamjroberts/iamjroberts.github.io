@@ -35,13 +35,13 @@ Outside of my career I love spending time with my children and working on my hom
 
 ## Projects
 ### AG-3000 (_2023_)
-
+![AG-3000](/assets/
 
 ### AG-4500S (_2023_)
-
+![AG-4500S](/assets/
 
 ### AG-4500 (_2022_)
-
+![AG-4500](/assets/4500-Ag-silo-1.png)
 
 ### AG-30 (_2022_)
 
