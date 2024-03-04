@@ -35,22 +35,29 @@ Outside of my career I love spending time with my children and working on my hom
 
 ## Projects
 ### AG-3000 (_2023_)
+Design for portablilty and detection of three difffernt aerosols in port of entry scenerios
 ![AG-3000](/assets/
 
 ### AG-4500S (_2023_)
+Wideband (up to 4500nm) for monitoring and identification of unknown mixtures (_typical hazardous gas monitoring, CEA_)
 ![AG-4500S](/assets/
 
 ### AG-4500 (_2022_)
+First version designed for monitoring and identification of unknown mixtures (_typical hazardous gas monitoring, CEA_)
 ![AG-4500](/assets/4500-Ag-silo-1.png)
 
 ### AG-30 (_2022_)
+Narrow-band tracking of 2 pertinent molecules such as methane and ethane gases, or silicate and coal dust (_typical application, leak detection, dust monitoring, CEA_)
 ![AG-30](/assets/ag15alpha1-silo-1.png)
 
 ### AG-2000 (_2021_)
+Wide-band (up to 2000nm) monitoring and identification of unknown mixtures such as acetone and methanol (_typical application, breath testing, CEA_)
 ![AG-2000](/assets/AG2000-Black-silo-1.png)
 
 ### AG-15 (_2021_)
+Narrow-band tracking of a pertinent molecule such as methane gas (_typical application, leak detection_)
 ![AG-15](/assets/AG-15-Blue-silo-1.png)
 
 ### AG-4000 (_2020_)
+Wideband (up to 4000nm) monitoring and identification of unknown mixtures (_typical application hazardous gas monitoring, CEA_)
 ![AG-4000](/assets/ag-4000-alpha-silo-1.png)
