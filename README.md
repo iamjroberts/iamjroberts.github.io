@@ -18,15 +18,20 @@ Outside of my career I love spending time with my children and working on my hom
 |American Welding Society                       | -6G Pipe GTAW- Mild, Stainless, and Chromoly Steel (_March 2016_) <br> -3G + 4G GTAW- Aluminum (_March 2016_)                                                                                       |
 |SolidWorks Associate Certificate               | -Mechanical Design: C-YFFA8LG2CF (_April 2014_)                                                                                                                                               |
 
+#### Technical Skills: SolidWorks Solid Modeling and Drafting, Lean Manufacturing Managment, Leadership and Project Management, Prototyping, 3D Printing, Welding
 
 ## Work Experience
 **Mechanical Design Engineer @ Ring IR Inc. (_August 2018 - Present_)**
-- Meeting customer requirements through novel and creative means while also remembering simplicity and applying the tried and true.
-- 
-  
-#### Technical Skills: SolidWorks Solid Modeling and Drafting, Lean Manufacturing Managment, Leadership and Project Management, Prototyping, 3D Printing, Welding
+- Full system CAD design
+- Manage the integration of systems from other engineering teams
+- Ensuring customer/contract requirements are met
+- Part acquisition and logistics
+- Short run manufacturing
 
-**Prototyping Lab Technician @ Arrowhead Center**
+**Prototyping Lab Technician @ Studio G - Arrowhead Center/NMSU  (_August 2017- May 2018_)**
+- Facilitate real world design practices for client entrepreneur's ideas/products
+- Prototype design and testing of concept ideas through CAD modeling and 3D Printing
+- Implimented a new hire structure protocol fast tarcking the process
 
 ## Projects
 ### AG-3000 (_2023_)
