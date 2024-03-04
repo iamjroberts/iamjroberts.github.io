@@ -1,4 +1,3 @@
-# My Digital Billboard
 
 ## About
 As Lead Mechanical Design Engineer for 6 years at [RingIR](https://ring-ir.com/), I ensure cross functionality of electrical, optical, and mechanical systems into cohesive and reliable mid-infrared spectrometer devices. I specialize in the design and alignment of complex optical layouts.
@@ -22,7 +21,9 @@ Outside of my career I love spending time with my children and working on my hom
 
 ## Work Experience
 **Mechanical Design Engineer @ Ring IR Inc. (_August 2018 - Present_)**
-
+- Meeting customer requirements through novel and creative means while also remembering simplicity and applying the tried and true.
+- 
+  
 #### Technical Skills: SolidWorks Solid Modeling and Drafting, Lean Manufacturing Managment, Leadership and Project Management, Prototyping, 3D Printing, Welding
 
 **Prototyping Lab Technician @ Arrowhead Center**
