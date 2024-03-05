@@ -44,8 +44,9 @@ Wideband (up to 4500nm) for monitoring and identification of unknown mixtures (_
 
 ### Vacuum Airflow Filtering For Biological Sensing No. US 11,630,056 B1
 To prevent pathogen exposure to subsiquent users of a spectrometer
-|![Bio Chamber1](/assets/Bio Chamber 1.png)|
-|![Bio Chamber2] (/assets/Bio Chamber 2.png)|
+![Bio Chamber1](/assets/Bio Chamber 1.png)
+### 
+![Bio Chamber2] (/assets/Bio Chamber 2.png)
 
 ### AG-4500 (_2022_)
 First version designed for monitoring and identification of unknown mixtures (_typical hazardous gas monitoring, CEA_)
