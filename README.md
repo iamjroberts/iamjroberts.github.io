@@ -46,7 +46,6 @@ Wideband (up to 4500nm) for monitoring and identification of unknown mixtures (_
 To prevent pathogen exposure to subsiquent users of a spectrometer
 ![Bio Chamber1](/assets/Bio Chambers.png)
 
-
 ### AG-4500 (_2022_)
 First version designed for monitoring and identification of unknown mixtures (_typical hazardous gas monitoring, CEA_)
 ![AG-4500](/assets/4500-Ag-silo-1.png)
@@ -58,6 +57,10 @@ The sensitivity of a CRDS system is directly realated to its effective optical p
 ### AG-30 (_2022_)
 Narrow-band tracking of 2 pertinent molecules such as methane and ethane gases, or silicate and coal dust (_typical application, leak detection, dust monitoring, CEA_)
 ![AG-30](/assets/ag15alpha1-silo-1.png)
+
+### Mobile Bio Safety Labratory
+Deisgn and Built to meet Bio Saftey Labratory Level 3 requirements for Breathe testing of Covid 19 Patients
+![Mobile Lab](/assets/Trailer Merge.png)
 
 ### AG-2000 (_2021_)
 Wide-band (up to 2000nm) monitoring and identification of unknown mixtures such as acetone and methanol (_typical application, breath testing, CEA_)
