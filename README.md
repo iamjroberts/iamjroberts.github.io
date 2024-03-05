@@ -1,6 +1,6 @@
 
 ## About
-As Lead Mechanical Design Engineer for 6 years at [RingIR](https://ring-ir.com/), I ensure cross-functionality of electrical, optical, and mechanical systems into cohesive and reliable mid-infrared Cavity Ring Down Spectrometer (_CRDS_) devices. I specialize in the design and alignment of complex optical layouts.
+As the Lead Mechanical Design Engineer for 6 years at [RingIR](https://ring-ir.com/), I ensure cross-functionality of electrical, optical, and mechanical systems into cohesive and reliable mid-infrared Cavity Ring Down Spectrometer (_CRDS_) devices. I specialize in the design and alignment of complex optical layouts. Outside of mechanical design, I have worked with our team to collect scientific data in various locations and environments, such as Los Alamos National Laboratory (_LANL_) for chemical and breath detection and identification, oil fields (_in Farmington, NM_) for methane leak detection, and University of New Mexico (_UNM_) Hospital to train personnel on device operation and Covid-19 breath analysis.
 
 With an unwavering love for CAD work and an insatiable appetite for new challenges, I can't get enough when it comes to mechanical design. Whether it's intricate components or conceptualizing innovative solutions, I approach each task with enthusiasm and a can-do attitude. The thrill of problem-solving and continuous learning is like fuel to me. I have the drive to do the leg work and research necessary to translate conceptual ideas into tangible designs. I am eager for collaboration, always open to feedback, and ready to teach or learn from others. 
 
@@ -23,10 +23,12 @@ Outside of my career I love spending time with my children and working on my hom
 ## Work Experience
 **Mechanical Design Engineer @ Ring IR Inc. (_August 2018 - Present_)**
 - Full system CAD design
-- Machine part drafting and acquisitions
+- Machine part drafting
 - Manage the integration of systems from other engineering teams
+- Laboratory testing to ensure functionality and confidence checks
+- Scientific test data collection in lab settings and remote field work
 - Ensuring customer/contract requirements are met
-- Part acquisition and logistics
+- Part acquisition, logistics and quality control
 - Short run manufacturing
 
 **Prototyping Lab Technician @ Studio G - Arrowhead Center/NMSU  (_August 2017- May 2018_)**
@@ -60,7 +62,7 @@ Narrow-band tracking of 2 pertinent molecules such as methane and ethane gases, 
 ![AG-30](/assets/ag15alpha1-silo-1.png)
 
 ### Mobile Bio Safety Laboratory
-Designed and built to meet Bio Safety Laboratory Level 3 requirements for breath testing of Covid 19 patients during the height of the pandemic <br> Total Length 22ft, insulated and heated, Plug-in or dual fuel generator power, 4G network, Wifi, Remote visual monitoring, Cool and Hot water with hands free sink
+Designed and built to meet Bio Safety Laboratory Level 3 requirements for breath testing of Covid-19 patients during the height of the pandemic <br> Total Length 22ft, insulated and heated, Plug-in or dual fuel generator power, 4G network, Wifi, Remote visual monitoring, Cool and Hot water with hands free sink
 ![Mobile Lab](/assets/Trailer Merge.png)
 
 ### AG-2000 (_2021_)
