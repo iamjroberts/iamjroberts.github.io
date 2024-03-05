@@ -1,8 +1,8 @@
 
 ## About
-As the Lead Mechanical Design Engineer for 6 years at [RingIR](https://ring-ir.com/), I ensure cross-functionality of electrical, optical, and mechanical systems into cohesive and reliable mid-infrared Cavity Ring Down Spectrometer (_CRDS_) devices. I specialize in the design and alignment of complex optical layouts. Outside of mechanical design, I have worked with our team to collect scientific data in various locations and environments, such as Los Alamos National Laboratory (_LANL_) for chemical and breath detection and identification, oil fields (_in Farmington, NM_) for methane leak detection, and University of New Mexico (_UNM_) Hospital to train personnel on device operation and Covid-19 breath analysis.
+As the Lead Mechanical Design Engineer for 6 years at [RingIR](https://ring-ir.com/), I ensure cross-functionality of electrical, optical, and mechanical systems into cohesive and reliable mid-infrared Cavity Ring Down Spectrometer (_CRDS_) devices. I specialize in the design and alignment of complex optical layouts. Outside of mechanical design, I have worked with our team to collect scientific data in various locations and environments, such as Los Alamos National Laboratory (_LANL_) for chemical and breath detection and identification, oil fields (_in Farmington, NM_) for methane leak detection, and University of New Mexico (_UNM_) Hospital to train personnel on device operation and Covid-19 breath sampling.
 
-With an unwavering love for CAD work and an insatiable appetite for new challenges, I can't get enough when it comes to mechanical design. Whether it's intricate components or conceptualizing innovative solutions, I approach each task with enthusiasm and a can-do attitude. The thrill of problem-solving and continuous learning is like fuel to me. I have the drive to do the leg work and research necessary to translate conceptual ideas into tangible designs. I am eager for collaboration, always open to feedback, and ready to teach or learn from others. 
+With an unwavering love for CAD work and an insatiable appetite for new challenges, I can't get enough when it comes to mechanical design. Whether it's intricate components or conceptualizing innovative solutions, I approach each task with enthusiasm and a can-do attitude. The thrill of problem-solving and continuous learning is fuel to me. I have the drive to do the leg work and research necessary to translate conceptual ideas into tangible designs. I am eager for collaboration, always open to feedback, and ready to teach or learn from others. 
 
 Outside of my career I love spending time with my children and working on my home. As a jack of all trades I enjoy operating heavy equipment, welding, wood working and renovation projects. Getting out to explore the known and unknown locations in the beautiful state of New Mexico has been my newest project. 
 
@@ -34,7 +34,7 @@ Outside of my career I love spending time with my children and working on my hom
 **Prototyping Lab Technician @ Studio G - Arrowhead Center/NMSU  (_August 2017- May 2018_)**
 - Facilitate real world design practices for client entrepreneur's ideas/products
 - Prototype design and testing of concept ideas through CAD modeling and 3D Printing
-- Implemented a new hire structure protocol fast tarcking the process
+- Implemented a new-hire structure protocol fast tracking the process
 
 ## Projects
 ### AG-3000 (_2023_)
