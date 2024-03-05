@@ -59,7 +59,7 @@ Narrow-band tracking of 2 pertinent molecules such as methane and ethane gases, 
 ![AG-30](/assets/ag15alpha1-silo-1.png)
 
 ### Mobile Bio Safety Labratory
-Deisgn and Built to meet Bio Saftey Labratory Level 3 requirements for Breathe testing of Covid 19 Patients
+Deisgned and built to meet Bio Saftey Labratory Level 3 requirements for breathe testing of Covid 19 patients during the height of the pandemic <br> Total Length 22ft, Plug-in or dual fuel generator power, 4G network, Wifi, Remote visual monitoring, Cool and Hot water with hands free sink
 ![Mobile Lab](/assets/Trailer Merge.png)
 
 ### AG-2000 (_2021_)
