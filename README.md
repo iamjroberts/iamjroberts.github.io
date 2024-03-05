@@ -38,7 +38,7 @@ Outside of my career I love spending time with my children and working on my hom
 
 ## Projects
 ### AG-3000 (_2023_)
-Design for portability and detection of three difffernt aerosols in port of entry scenarios
+Design for portability and detection of three different aerosols in port of entry scenarios
 ![AG-3000](/assets/AG3000.png)
 
 ### AG-4500S (_2023_)
