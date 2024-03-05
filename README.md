@@ -1,10 +1,10 @@
 
 ## About
-As Lead Mechanical Design Engineer for 6 years at [RingIR](https://ring-ir.com/), I ensure cross functionality of electrical, optical, and mechanical systems into cohesive and reliable mid-infrared Cavity Ring Down Spectrometer (_CRDS_) devices. I specialize in the design and alignment of complex optical layouts.
+As Lead Mechanical Design Engineer for 6 years at [RingIR](https://ring-ir.com/), I ensure cross-functionality of electrical, optical, and mechanical systems into cohesive and reliable mid-infrared Cavity Ring Down Spectrometer (_CRDS_) devices. I specialize in the design and alignment of complex optical layouts.
 
 With an unwavering love for CAD work and an insatiable appetite for new challenges, I can't get enough when it comes to mechanical design. Whether it's intricate components or conceptualizing innovative solutions, I approach each task with enthusiasm and a can-do attitude. The thrill of problem-solving and continuous learning is like fuel to me. I have the drive to do the leg work and research necessary to translate conceptual ideas into tangible designs. I am eager for collaboration, always open to feedback, and ready to teach or learn from others. 
 
-Outside of my career I love spending time with my children and working on my home. As a jack of all trades I enjoy operating heavy equiptment, welding, wood working and renovation projects. Getting out to explore the known and unknown locations in the beautiful state of New Mexico has been my newest project. 
+Outside of my career I love spending time with my children and working on my home. As a jack of all trades I enjoy operating heavy equipment, welding, wood working and renovation projects. Getting out to explore the known and unknown locations in the beautiful state of New Mexico has been my newest project. 
 
 ## Education	
 
@@ -23,6 +23,7 @@ Outside of my career I love spending time with my children and working on my hom
 ## Work Experience
 **Mechanical Design Engineer @ Ring IR Inc. (_August 2018 - Present_)**
 - Full system CAD design
+- Machine part drafting and acquisitions
 - Manage the integration of systems from other engineering teams
 - Ensuring customer/contract requirements are met
 - Part acquisition and logistics
@@ -31,11 +32,11 @@ Outside of my career I love spending time with my children and working on my hom
 **Prototyping Lab Technician @ Studio G - Arrowhead Center/NMSU  (_August 2017- May 2018_)**
 - Facilitate real world design practices for client entrepreneur's ideas/products
 - Prototype design and testing of concept ideas through CAD modeling and 3D Printing
-- Implimented a new hire structure protocol fast tarcking the process
+- Implemented a new hire structure protocol fast tarcking the process
 
 ## Projects
 ### AG-3000 (_2023_)
-Design for portablilty and detection of three difffernt aerosols in port of entry scenerios
+Design for portability and detection of three difffernt aerosols in port of entry scenarios
 ![AG-3000](/assets/
 
 ### AG-4500S (_2023_)
@@ -43,7 +44,7 @@ Wideband (up to 4500nm) for monitoring and identification of unknown mixtures (_
 ![AG-4500S](/assets/
 
 ### Vacuum Airflow Filtering For Biological Sensing No. US 11,630,056 B1
-To prevent pathogen exposure to subsiquent users of a spectrometer
+To prevent pathogen exposure to subsequent users of a spectrometer
 ![Bio Chamber1](/assets/Bio Chambers.png)
 
 ### AG-4500 (_2022_)
@@ -51,15 +52,15 @@ First version designed for monitoring and identification of unknown mixtures (_t
 ![AG-4500](/assets/4500-Ag-silo-1.png)
 
 ### Resonant, Multi-pass Cavity For Cavity Ring-down Spectroscopy No. US 11,346,780 B1
-The sensitivity of a CRDS system is directly realated to its effective optical path length
+The sensitivity of a CRDS system is directly related to its effective optical path length
 ![Multipass](/assets/Multipass.png)
 
 ### AG-30 (_2022_)
 Narrow-band tracking of 2 pertinent molecules such as methane and ethane gases, or silicate and coal dust (_typical application, leak detection, dust monitoring, CEA_)
 ![AG-30](/assets/ag15alpha1-silo-1.png)
 
-### Mobile Bio Safety Labratory
-Deisgned and built to meet Bio Saftey Labratory Level 3 requirements for breathe testing of Covid 19 patients during the height of the pandemic <br> Total Length 22ft, Plug-in or dual fuel generator power, 4G network, Wifi, Remote visual monitoring, Cool and Hot water with hands free sink
+### Mobile Bio Safety Laboratory
+Designed and built to meet Bio Safety Laboratory Level 3 requirements for breath testing of Covid 19 patients during the height of the pandemic <br> Total Length 22ft, insulated and heated, Plug-in or dual fuel generator power, 4G network, Wifi, Remote visual monitoring, Cool and Hot water with hands free sink
 ![Mobile Lab](/assets/Trailer Merge.png)
 
 ### AG-2000 (_2021_)
