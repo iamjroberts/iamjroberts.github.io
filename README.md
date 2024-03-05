@@ -1,6 +1,6 @@
 
 ## About
-As Lead Mechanical Design Engineer for 6 years at [RingIR](https://ring-ir.com/), I ensure cross functionality of electrical, optical, and mechanical systems into cohesive and reliable mid-infrared spectrometer devices. I specialize in the design and alignment of complex optical layouts.
+As Lead Mechanical Design Engineer for 6 years at [RingIR](https://ring-ir.com/), I ensure cross functionality of electrical, optical, and mechanical systems into cohesive and reliable mid-infrared Cavity Ring Down Spectrometer (_CRDS_) devices. I specialize in the design and alignment of complex optical layouts.
 
 With an unwavering love for CAD work and an insatiable appetite for new challenges, I can't get enough when it comes to mechanical design. Whether it's intricate components or conceptualizing innovative solutions, I approach each task with enthusiasm and a can-do attitude. The thrill of problem-solving and continuous learning is like fuel to me. I have the drive to do the leg work and research necessary to translate conceptual ideas into tangible designs. I am eager for collaboration, always open to feedback, and ready to teach or learn from others. 
 
@@ -42,9 +42,17 @@ Design for portablilty and detection of three difffernt aerosols in port of entr
 Wideband (up to 4500nm) for monitoring and identification of unknown mixtures (_typical hazardous gas monitoring, CEA_)
 ![AG-4500S](/assets/
 
+### Vacuum Airflow Filtering For Biological Sensing No. US 11,630,056 B1
+To prevent pathogen exposure to subsiquent users of a spectrometer
+![Bio Chamber1](/assets/Bio Chamber 1.png) ![Bio Chamber2] (/assets/Bio Chamber 2.png)
+
 ### AG-4500 (_2022_)
 First version designed for monitoring and identification of unknown mixtures (_typical hazardous gas monitoring, CEA_)
 ![AG-4500](/assets/4500-Ag-silo-1.png)
+
+### Resonant, Multi-pass Cavity For Cavity Ring-down Spectroscopy No. US 11,346,780 B1
+The sensitivity of a CRDS system is directly realated to its effective optical path length
+![Multipass](/assets/Multipass.png)
 
 ### AG-30 (_2022_)
 Narrow-band tracking of 2 pertinent molecules such as methane and ethane gases, or silicate and coal dust (_typical application, leak detection, dust monitoring, CEA_)
