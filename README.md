@@ -18,7 +18,7 @@ Outside of my career I love spending time with my children and working on my hom
 |American Welding Society                       | -6G Pipe GTAW- Mild, Stainless, and Chromoly Steel (_March 2016_) <br> -3G + 4G GTAW- Aluminum (_March 2016_)                                                                                       |
 |SolidWorks Associate Certificate               | -Mechanical Design: C-YFFA8LG2CF (_April 2014_)                                                                                                                                               |
 
-#### Technical Skills: SolidWorks Solid Modeling and Drafting, Lean Manufacturing Managment, Leadership and Project Management, Prototyping, 3D Printing, Welding
+#### Technical Skills: SolidWorks Solid Modeling and Drafting, Lean Manufacturing Management, Leadership and Project Management, Prototyping, 3D Printing, Welding
 
 ## Work Experience
 **Mechanical Design Engineer @ Ring IR Inc. (_August 2018 - Present_)**
