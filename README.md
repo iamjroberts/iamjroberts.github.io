@@ -42,7 +42,7 @@ Wideband (up to 3000nm)Design for portability and detection of aerosols in port 
 ![AG-3000](/assets/AG3000.png)
 
 ### AG-4500S (_2023_)
-Wideband (up to 4500nm) for monitoring and identification of unknown mixtures (_typical hazardous gas monitoring, CEA_)
+Wideband (up to 4500nm) Version B reduced device footprint, for monitoring and identification of unknown mixtures (_typical hazardous gas monitoring, CEA_)
 ![AG-4500S](/assets/AG4500S.png)
 
 ### Vacuum Airflow Filtering For Biological Sensing No. US 11,630,056 B1
@@ -50,7 +50,7 @@ To prevent pathogen exposure to subsequent users of a spectrometer
 ![Bio Chamber1](/assets/Bio Chambers.png)
 
 ### AG-4500 (_2022_)
-First version designed for monitoring and identification of unknown mixtures (_typical hazardous gas monitoring, CEA_)
+Wideband (up to 4500nm) Version A design for monitoring and identification of unknown mixtures (_typical hazardous gas monitoring, CEA_)
 ![AG-4500](/assets/4500-Ag-silo-1.png)
 
 ### Resonant, Multi-pass Cavity For Cavity Ring-down Spectroscopy No. US 11,346,780 B1
@@ -58,7 +58,7 @@ The sensitivity of a CRDS system is directly related to its effective optical pa
 ![Multipass](/assets/Multipass.png)
 
 ### AG-30 (_2022_)
-Narrow-band tracking of 2 pertinent molecules such as methane and ethane gases, or silicate and coal dust (_typical application, leak detection, dust monitoring, CEA_)
+Narrowband tracking of 2 pertinent molecules such as methane and ethane gases, or silicate and coal dust (_typical application, leak detection, dust monitoring, CEA_)
 ![AG-30](/assets/ag15alpha1-silo-1.png)
 
 ### Mobile Bio Safety Laboratory
@@ -66,11 +66,11 @@ Designed and built to meet Bio Safety Laboratory Level 3 requirements for breath
 ![Mobile Lab](/assets/Trailer Merge.png)
 
 ### AG-2000 (_2021_)
-Wide-band (up to 2000nm) monitoring and identification of unknown mixtures such as acetone and methanol (_typical application, breath testing, CEA_)
+Wideband (up to 2000nm) monitoring and identification of unknown mixtures such as acetone and methanol (_typical application, breath testing, CEA_)
 ![AG-2000](/assets/AG2000-Black-silo-1.png)
 
 ### AG-15 (_2021_)
-Narrow-band tracking of a pertinent molecule such as methane gas (_typical application, leak detection_)
+Narrowband tracking of a pertinent molecule such as methane gas (_typical application, leak detection_)
 ![AG-15](/assets/AG-15-Blue-silo-1.png)
 
 ### AG-4000 (_2020_)
