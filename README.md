@@ -43,7 +43,7 @@ Design for portability and detection of three different aerosols in port of entr
 
 ### AG-4500S (_2023_)
 Wideband (up to 4500nm) for monitoring and identification of unknown mixtures (_typical hazardous gas monitoring, CEA_)
-![AG-4500S](/assets/
+![AG-4500S](/assets/AG4500S.png)
 
 ### Vacuum Airflow Filtering For Biological Sensing No. US 11,630,056 B1
 To prevent pathogen exposure to subsequent users of a spectrometer
