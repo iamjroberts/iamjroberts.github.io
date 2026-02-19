@@ -1,6 +1,6 @@
 
 ## About
-As the Lead Mechanical Design Engineer for 6 years at [RingIR](https://ring-ir.com/), I ensure cross-functionality of electrical, optical, and mechanical systems into cohesive and reliable mid-infrared Cavity Ring Down Spectrometer (_CRDS_) devices. I specialize in the design and alignment of complex optical layouts. Outside of mechanical design, I have worked with our team to collect scientific data in various locations and environments, such as Los Alamos National Laboratory (_LANL_) for chemical and breath detection and identification, oil fields (_in Farmington, NM_) for methane leak detection, and University of New Mexico (_UNM_) Hospital to train personnel on device operation and Covid-19 breath sampling.
+In my current role working on a project of record as a Product Design Engineer in ND for Sandia National Laboratory has been truly eye opening. My previous experience at a smaller scale has been extremely valuable along side these new experiences. It has allowed me to understand the big picture as well as the grind it takes to achieve massive long term goals.
 
 With an unwavering love for CAD work and an insatiable appetite for new challenges, I can't get enough when it comes to mechanical design. Whether it's intricate components or conceptualizing innovative solutions, I approach each task with enthusiasm and a can-do attitude. The thrill of problem-solving and continuous learning is fuel to me. I have the drive to do the leg work and research necessary to translate conceptual ideas into tangible designs. I am eager for collaboration, always open to feedback, and ready to teach or learn from others. 
 
@@ -18,10 +18,14 @@ Outside of my career I love spending time with my children and working on my hom
 |American Welding Society                       | -6G Pipe GTAW- Mild, Stainless, and Chromoly Steel (_March 2016_) <br> -3G + 4G GTAW- Aluminum (_March 2016_)                                                                                       |
 |SolidWorks Associate Certificate               | -Mechanical Design: C-YFFA8LG2CF (_April 2014_)                                                                                                                                               |
 
-#### Technical Skills: SolidWorks Solid Modeling and Drafting, Lean Manufacturing Management, Leadership and Project Management, Prototyping, 3D Printing, Welding
+#### Technical Skills: SolidWorks Solid & Creo Modeling and Drafting, GD&T, Lean Manufacturing Management, Leadership and Project Management, Prototyping, 3D Printing, Welding
 
 ## Work Experience
-**Mechanical Design Engineer @ Ring IR Inc. (_August 2018 - Present_)**
+**Product Design Engineer @ Sandia National Laboratory (_July 2024 - Present_)**
+- Leverage engineering principles and CAD software to design and develop innovative products for the Joint Test Assembly, ensuring models meet form, fit, and functional requirements while initiating and evaluating new processes based on user needs and manufacturing feasibility.
+- Create design definition documentation using GD&T, specifying materials and evaluating vendor capabilities, while collaborating across disciplines to establish design methods and prepare documentation for successful product deployment in the field.
+
+**Mechanical Design Engineer @ Ring IR Inc. (_August 2018 - July 2024_)**
 - Full system CAD design
 - Machine part drafting
 - Manage the integration of systems from other engineering teams
@@ -37,6 +41,8 @@ Outside of my career I love spending time with my children and working on my hom
 - Implemented a new-hire structure protocol fast tracking the process
 
 ## Projects
+As the Lead Mechanical Design Engineer for 6 years at [RingIR](https://ring-ir.com/), I ensure cross-functionality of electrical, optical, and mechanical systems into cohesive and reliable mid-infrared Cavity Ring Down Spectrometer (_CRDS_) devices. I specialize in the design and alignment of complex optical layouts. Outside of mechanical design, I have worked with our team to collect scientific data in various locations and environments, such as Los Alamos National Laboratory (_LANL_) for chemical and breath detection and identification, oil fields (_in Farmington, NM_) for methane leak detection, and University of New Mexico (_UNM_) Hospital to train personnel on device operation and Covid-19 breath sampling.
+
 ### AG-3000 (_2023_)
 Wideband (up to 3000nm)Design for portability and detection of aerosols in port of entry scenarios
 ![AG-3000](/assets/AG3000.png)
